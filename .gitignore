@@ -1,0 +1,8 @@
+# Ignore in this directory
+.ipynb_checkpoints/
+__pycache__/
+analysis.csv
+frontpage.csv
+prices.csv
+chromedriver.exe
+LICENSE.chromedriver
